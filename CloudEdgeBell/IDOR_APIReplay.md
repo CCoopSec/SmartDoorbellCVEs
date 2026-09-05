@@ -1,3 +1,6 @@
+# CVE-2026-xxxx
+
+
 **CVE ID:** Pending
 
 **Problem Type:** CWE-294 (Authentication Bypass by Capture-Replay), CWE-639 (Authorization Bypass Through User-Controlled Key / IDOR)
