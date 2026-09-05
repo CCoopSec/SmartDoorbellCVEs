@@ -1,4 +1,4 @@
-CustomScripts/ contains a few scripts used for various purposes while discovering this vuln and they come in handy especially when paired with other open source tools. These scripts even came in handy going beyond CWE-295, and leveraging it to discover other vulnerabilities within the network communications, and I hope these tools also come in handy for anyone interested in recreating this PoC or analyzing similar IoT Network traffic.
+This dir contains a few scripts used for various purposes while discovering these vulns and they come in handy especially when paired with other open source tools. These scripts even came in handy going beyond the scope of this research, and I hope these also come in handy for anyone interested in recreating these vulns or analyzing similar Network traffic.
 
 
 ## mitmToJson.py
